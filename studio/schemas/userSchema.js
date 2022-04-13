@@ -6,7 +6,7 @@ export const userSchema = {
         {
             name: 'name',
             type: 'string',
-            title: 'Wallet Address',
+            title: 'Name',
         },
         {
             name: 'walletAddress',
